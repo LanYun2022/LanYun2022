@@ -4,8 +4,17 @@
    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LanYun2022&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanYun2022&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
-### 🔨 技能
-![技能](https://skillicons.dev/icons?i=windows,vscodium,ps,mint,html,css,js,github,wordpress,cs,dotnet)
+### 编程语言
+![技能](https://skillicons.dev/icons?i=html,css,js,cs)
+
+### 框架
+![技能](https://skillicons.dev/icons?i=dotnet)
+
+### 软件
+![技能](https://skillicons.dev/icons?i=vscodium,ps,github,wordpress)
+
+### 操作系统
+![技能](https://skillicons.dev/icons?i=windows,mint)
 
 ### 我的设备
 |2016 ~ 2020 | |
