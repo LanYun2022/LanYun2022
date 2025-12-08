@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanYun2022&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
 ### 🔨 技能
-![技能](https://skillicons.dev/icons?i=windows,vscodium,ps,mint,html,github,wordpress)
+![技能](https://skillicons.dev/icons?i=windows,vscodium,ps,mint,html,css,js,github,wordpress,cs,dotnet)
 
 ### 我的设备
 |2016 ~ 2020 | |
