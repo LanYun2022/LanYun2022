@@ -5,10 +5,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanYun2022&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
 ### 编程语言
-![技能](https://skillicons.dev/icons?i=html,css,js,ts,cs,kotlin,rust,py,java)
+![技能](https://skillicons.dev/icons?i=html,css,js,ts,cs,kotlin,py,java)
 
 ### 框架
-![技能](https://skillicons.dev/icons?i=dotnet,electron,tauri)
+![技能](https://skillicons.dev/icons?i=dotnet,electron)
 
 ### 软件
 ![技能](https://skillicons.dev/icons?i=vscodium,ps,github,wordpress)
