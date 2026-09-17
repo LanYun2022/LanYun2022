@@ -1,8 +1,6 @@
 # 大家好 👋
 ### 嘎嘎嘎~ 我是一只一只臭弟弟~
 
-   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LanYun2022&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanYun2022&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
 ### 编程语言
 ![技能](https://skillicons.dev/icons?i=html,css,js,ts,cs,kotlin,py,java)
@@ -15,6 +13,15 @@
 
 ### 操作系统
 ![技能](https://skillicons.dev/icons?i=windows,mint)
+
+### 📊 GitHub Stats
+
+
+![GitHub stats](https://github-readme-stats-six-omega-69.vercel.app/api?username=LanYun2022&show_icons=true&locale=cn&hide_border=true&rank_icon=github&include_all_commits=true")
+
+![GitHub Streak](https://github-readme-streak-stats-kappa-swart.vercel.app?user=LanYun2022&hide_border=true)
+
+![WakaTime Stats](https://github-readme-stats-six-omega-69.vercel.app/api/wakatime?username=LanYun2022&layout=compact&hide_border=true&hide=Other)
 
 ### 我的设备
 |2016 ~ 2020 | |
